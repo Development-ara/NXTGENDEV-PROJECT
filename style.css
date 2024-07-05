@@ -168,6 +168,10 @@ transform: translate(0px,-200px);
 	color: white;
 	padding-top: 15px;
 }
+@media screen and (max-width:600px) {
+	
+	
+}
 
   
 
